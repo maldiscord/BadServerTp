@@ -1,0 +1,6 @@
+strings:
+  permission: 'badserver.admin'
+  tped: '&c%p% &ateleported you' # %p% is the command senders ign
+  done: '&cDone! I tped %n% players!' # %n% is number of players obviously
+settings:
+  delay: 20 # its ticks 20 = 1sec

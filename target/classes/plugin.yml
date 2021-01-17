@@ -1,0 +1,6 @@
+name: MalsSlowTpall
+version: 1.0-SNAPSHOT
+main: lol.maltest.badservertp.Main
+commands:
+  slowtpall:
+    description: tpall in a slow manner
